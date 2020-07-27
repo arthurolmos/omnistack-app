@@ -1,4 +1,4 @@
-"# AIRCNC"
+# AIRCNC
 
 Aplicativo de cadastro e aluguel de salas comerciais, nos moldes do AirBnb, desenvolvido na semana Omnistack da Rocketseat.
 
